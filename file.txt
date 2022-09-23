@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capical of France
+Tokyo is the capital of Japan
+Beijing is the capital of China
